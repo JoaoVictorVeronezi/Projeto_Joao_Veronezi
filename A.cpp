@@ -10,6 +10,9 @@ class A {
         void MA2() {
             cout << "MA2" << endl;
         }
+        void MA3() {
+            cout << "Alteracao a classe A partir do clone" << endl;
+        }
     private:
         int A1;
         float A2;

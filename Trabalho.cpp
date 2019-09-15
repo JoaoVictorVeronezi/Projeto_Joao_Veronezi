@@ -1,6 +1,7 @@
 #include <iostream>
 #include "A.cpp"
 #include "B.cpp"
+#include "C.cpp"
 
 using namespace std;
 
