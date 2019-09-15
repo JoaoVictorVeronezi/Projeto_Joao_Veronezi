@@ -11,7 +11,7 @@ class A {
             cout << "MA2" << endl;
         }
         void MA3() {
-            cout << "teste" << endl;
+            cout << "Alteracao a classe A partir do clone" << endl;
         }
     private:
         int A1;
