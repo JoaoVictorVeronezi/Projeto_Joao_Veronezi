@@ -15,7 +15,7 @@ class D {
 
         }
         void MD4() {
-            cout << "MC4" << endl;
+            cout << "MD4" << endl;
 
         }
     
