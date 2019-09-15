@@ -11,7 +11,7 @@ class D {
             cout << "MD2" << endl;
         }
         void MD3() {
-            cout << "MC3" << endl;
+            cout << "MD3" << endl;
 
         }
     private:
