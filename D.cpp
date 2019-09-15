@@ -14,6 +14,11 @@ class D {
             cout << "MD3" << endl;
 
         }
+        void MD4() {
+            cout << "MC4" << endl;
+
+        }
+    
     private:
         string D1;
         int D2;
